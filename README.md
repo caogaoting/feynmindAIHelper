@@ -24,5 +24,5 @@ This is an open-source Feynmind AI Helper.
 
 4.  **Run the application:**
     ```bash
-    python app/main.py
+    streamlit run app/main.py
     ```
